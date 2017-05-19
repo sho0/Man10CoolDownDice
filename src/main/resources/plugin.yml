@@ -1,0 +1,5 @@
+name: CooldownDice
+version: ${project.version}
+main: cooldown.dice.Dice
+commands:
+  mdice:
